@@ -16,5 +16,3 @@ I'm Gautam, a passionate web developer working at Symlink Technologies LLP. I lo
 I'm always excited to learn, share, and code together. Feel free to reach out if you have any questions or ideas. Let's make the web a better place, one line of code at a time!
 
 Happy coding! 🚀
-[here](https://www.geeksforgeeks.org/){:target="_blank"} 
-<a href="https://example.com" target="_blank" rel="noopener"><span>Example Text</span> </a>
