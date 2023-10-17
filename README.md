@@ -17,3 +17,4 @@ I'm always excited to learn, share, and code together. Feel free to reach out if
 
 Happy coding! 🚀
 [here](https://www.geeksforgeeks.org/){:target="_blank"} 
+<a href="https://example.com" target="_blank" rel="noopener"><span>Example Text</span> </a>
