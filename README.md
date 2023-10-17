@@ -16,3 +16,4 @@ I'm Gautam, a passionate web developer working at Symlink Technologies LLP. I lo
 I'm always excited to learn, share, and code together. Feel free to reach out if you have any questions or ideas. Let's make the web a better place, one line of code at a time!
 
 Happy coding! 🚀
+[Open in New Tab](https://www.google.com){:target="_blank"}
