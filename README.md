@@ -9,7 +9,7 @@ I'm Gautam, a passionate web developer working at Symlink Technologies LLP. I lo
 - **Collaboration:** Feel free to collaborate, contribute, or raise issues on any of my projects. Let's build amazing things together!
 
 ## Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/whoisrgd)
+- [LinkedIn](https://www.linkedin.com/in/whoisrgd,{:target="_blank"})
 - [Email](mailto:gautam.d@symlinktech.com)
 
 ## Let's Code Together
